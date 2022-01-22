@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with front-end
 - 🌱 I’m currently learning Reactjs, Vue.js, Java, Spring Boot, NodeJs, Phyton, Data Science and Machine Learning
 - 😄 Pronouns: He/him || ele/dele
-- ⚡ Fun fact:  I love dog, current I've twelve ones.
+
 
 
 <div align="center">
