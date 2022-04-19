@@ -1,7 +1,7 @@
 ### Hello, I'm Victor Costa!😉
 
 - 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning Reactjs, Vue.js, Java, Spring Boot, NodeJs, Phyton, Data Science and Machine Learning
+- 🌱 I’m currently learning Reactjs, Vue.js, Java, Spring Boot,PHP, NodeJs, Phyton, Data Science and Machine Learning
 - 😄 Pronouns: He/him || ele/dele
 
 
