@@ -1,7 +1,7 @@
 ### Hello, I'm Victor Costa!😉
 
 - 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning Reactjs, Vue.js,JavaScript, TypeScript, Node.JS and PHP
+- 🌱 I’m currently learning Reactjs, Vue.js,JavaScript, TypeScript, Node.JS and Java
 - 😄 Pronouns: He/him || ele/dele
 
 
