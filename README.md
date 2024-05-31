@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working with full-stack
 - 🌱 I’m currently learning Reactjs, Vue.js,JavaScript, TypeScript, Node.JS, C , C++ and Java
+- I've interesting in Software Engineering, Machine Learning and High-Performance Computing
 - 😄 Pronouns: He/him || ele/dele
 
 
